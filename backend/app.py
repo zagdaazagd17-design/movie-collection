@@ -56,6 +56,14 @@ def logout():
     session.clear()
     return redirect(url_for("index"))
 
+@app.route("/debug-env")
+def debug_env():
+    """Temporary: check what env variables Flask sees."""
+    return jsonify({
+        "ADMIN_USERNAME": os.getenv("ADMIN_USERNAME"),
+        "ADMIN_PASSWORD": os.getenv("ADMIN_PASSWORD"),
+    })
+
 # ADMIN CRUD ROUTES
 
 def admin_required():
