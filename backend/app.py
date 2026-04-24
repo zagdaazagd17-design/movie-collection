@@ -58,10 +58,13 @@ def logout():
 
 @app.route("/debug-env")
 def debug_env():
-    """Temporary: check what env variables Flask sees."""
     return jsonify({
         "ADMIN_USERNAME": os.getenv("ADMIN_USERNAME"),
         "ADMIN_PASSWORD": os.getenv("ADMIN_PASSWORD"),
+        "DB_HOST": os.getenv("DB_HOST"),
+        "DB_USER": os.getenv("DB_USER"),
+        "DB_NAME": os.getenv("DB_NAME"),
+        "DB_PORT": os.getenv("DB_PORT"),
     })
 
 # ADMIN CRUD ROUTES
