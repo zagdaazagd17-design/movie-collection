@@ -1,0 +1,585 @@
+    1  touch test.txt
+    2  ls -la
+    3  mv test.text hello.txt
+    4  touch test.txt
+    5  mv test.txt hello.txt
+    6  cp hello.txt backup.txt
+    7  rm backup.text
+    8  rm backup.txt
+    9  apt-get uptade
+   10  apt-get update
+   11  touch test.txt
+   12  pwd
+   13  mkdir SoftwareEngineering
+   14  cd SoftwareEngineering
+   15  mkdir Lab01 cd Lab01
+   16  mkdir Lab01
+   17  cd Lab01
+   18  touch test.txt
+   19  ls -la
+   20  mv test.txt hello.txt
+   21  cp hello.txt backup.txt
+   22  rm backup.txt
+   23  nano info.txt
+   24  cat info.txt
+   25  code .
+   26  
+   27  git config --global core.editor "code--wait"
+   28  got config --global user.name "Zagdsurenkhorol"
+   29  git config --global user.name "Zagdsurenkhorol"
+   30  git config --global user.email "zagdaazagd17@gmail.com"
+   31  git config --list
+   32  git init
+   33  git status
+   34  git add 
+   35  git add .
+   36  git commit -m "Lab 01-Хөгжүүлэлтийн орчин бэлдэх Терминал болон Хувилбар удирдах систем"
+   37  git log
+   38  cd hello.txt
+   39  nano hello.txt
+   40  cd hello.txt
+   41  git diff
+   42  nano hello.txtr
+   43  nano hello.txt
+   44  git diff
+   45  git add hello.txt git commit -m "hello.txt"
+   46  git add hello.txt git commit -m "hello.txt laboratoy work 1"
+   47  git config 
+   48  git commit -m "hello.txt"
+   49  git commit -m "hello.txt changed"
+   50  git add hello.txt git commit -m "hello.txt changed"
+   51  git add hello.txt
+   52  git commit -m "hello.txt changed"
+   53  whoami
+   54  uname -a
+   55  ls -la
+   56  history
+   57  git log --online --graph --all
+   58  git log --oneline --graph --all
+   59  whoami
+   60  uname -a
+   61  cd SoftwareEngineering
+   62  cd Lab01
+   63  git log
+   64  sudo apt update sudo apt install python3 python3-pip
+   65  sudo apt update
+   66  sudo apt install python3 python3-pip
+   67  python3 --version
+   68  python3
+   69  sudo apt update sudo apt install python3 python3-pip
+   70  sudo apt update sudo apt install python3 python3-pi
+   71  sudo apt update
+   72  sudo apt update sudo apt install python3 python3-pip
+   73  v
+   74  version
+   75  sudo apt update sudo apt install python3 python3-pip
+   76  sudo apt update && sudo apt install python3 python3-pip -y
+   77  python3--version
+   78  sudo apt update
+   79  sudo apt install python3 python3-pip
+   80  python3--version
+   81  python3 --version
+   82  python3
+   83  cd ~/SoftwareEngineering mkdir Lab02
+   84  cd Lab02
+   85  cd ~/SoftwareEngineering mkdir Lab01
+   86  ccd ~/SoftwareEngineering mkdir Lab01
+   87  cd Lab01
+   88  pwd
+   89  mkdir SoftwareEngineering
+   90  cd SoftwareEngineering
+   91  cd Lab01
+   92  python3
+   93  cd~/SoftwareEngineering
+   94  python3
+   95  cd~/SoftwareEngineering
+   96  cd SoftwareEngineering
+   97  mkdir Lab02
+   98  cd Lab02
+   99  bash pwd
+  100  nano
+  101  nano hello_python.py
+  102  name=input("Таны нэр хэн бэ?")
+  103  name = input("Таны нэр хэн бэ? ")
+  104  nano hello_phyton.py
+  105  fg
+  106  python3 hello_python.py
+  107  fg
+  108  nano hello_python.py
+  109  python3 hello_python.py
+  110  nano hello_phyton.py
+  111  ython3
+  112  hello_python.py
+  113  python3
+  114  hello_python.py
+  115  python3 hello_python.py
+  116  nano hello_phyton.py
+  117  python3
+  118  hello_python.py
+  119  python3 hello_python.py
+  120  hello_python.py'
+  121  Zagd
+  122  adad
+  123  ada
+  124  dad
+  125  a
+  126  da
+  127  da
+  128  d
+  129  ad
+  130  a
+  131  exi
+  132  exit
+  133  exit()
+  134  Zagdsurenkhorol
+  135  nano
+  136  pwd
+  137  dadwad
+  138  a
+  139  a
+  140  a
+  141  a
+  142  da
+  143  d
+  144  adadadddddddddddddddddddddddddddddddddddddddddddddddd
+  145  cd SoftwareEngineer
+  146  cd SoftwareEngineering
+  147  cd Lab02
+  148  hello_python.py
+  149  python3 hello_python.py
+  150  nano hello_python.py
+  151  python3 hello_python.py
+  152  python3
+  153  cd Software Engineering
+  154  cd SoftwareEngineering
+  155  cd Lab02
+  156  nano calculator
+  157  nano calculator.py
+  158  cd SoftwareEngineering
+  159  cd Lab02
+  160  nano calculator.py
+  161  python3 calculator.py 10 5 add
+  162  python3 calculator.py 10 3 sub
+  163  python3 calculator.py
+  164  nano calculator.py
+  165  echo "=== Lab 02 Submission ===" > lab02_final.txt
+  166  echo "1. Python Version:" >> lab02_final.txt
+  167  python3 --version >> lab02_final.txt
+  168  echo "" >> lab02_final.txt
+  169  echo "2. Calculator Test (Add):" >> lab02_final.txt
+  170  echo "=== Lab 02 Submission ===" > lab02_final.txt
+  171  echo "1. Python Version:" >> lab02_final.txt
+  172  python3 --version >> lab02_final.txt.
+  173  echo "" >> lab02_final.txt.
+  174  echo "2. Calculator Test (Add):" >> lab02_final.txt.
+  175  python3 calculator.py 50 50 add >> lab02_final.txt.
+  176  python3 calculator.py 50 50 add >> lab02_final.txt
+  177  python3
+  178  cd SoftwareEngineering
+  179  cd Lab02
+  180  pwd
+  181  nano hello_python.py
+  182  python3 hello_python.py
+  183  nano calculator.py
+  184  python3 calculator.py 10 5 add
+  185  python3 calculator.py 10 3 sub
+  186  python3 calculator.py
+  187  echo "=== Lab 02 Submission ===" > lab02_final.txt
+  188  echo "1. Python Version:" >> lab02_final.txt
+  189  python3 --version >> lab02_final.txt
+  190  echo "" >> lab02_final.txt
+  191  echo "2. Calculator Test (Add):" >> lab02_final.txt
+  192  python3 calculator.py 50 50 add >> lab02_final.txt
+  193  echo "" >> lab02_final.txt
+  194  echo "3. Calculator Test (Sub):" >> lab02_final.txt
+  195  python3 calculator.py 100 30 sub >> lab02_final.txt
+  196  echo "" >> lab02_final.txt
+  197  echo "4. File List:" >> lab02_final.txt
+  198  ls -la >> lab02_final.txt
+  199  cat lab02_final.txt
+  200  powershell pip --version
+  201  exit
+  202  powershell pip --version
+  203  pip --version
+  204  mkdir SoftwareEngineering
+  205  cd SoftwareEngineering
+  206  mkdir Lab3
+  207  cd Lab3
+  208  python -m venv .venv
+  209  python3 -m venv .venv
+  210  python3
+  211  python -m venv.venv
+  212  python -m venv .venv
+  213  python3 -m venv .venv
+  214  sudo apt update && sudo apt install python3.12-venv
+  215  python -m venv .venv
+  216  python3 -m venv .venv
+  217  python -m venv .venv
+  218  python3 -m venv .venv
+  219  powershell .\.venv\Scripts\Activate
+  220  .venv\Scripts\Activate
+  221  .venv
+  222  .venv\Scripts\Activate
+  223  source .venv/bin/activate
+  224  pip install requests
+  225  sudo apt update && sudo apt install python3-pip python3-venv
+  226  rm -rf .venv
+  227  python3 -m venv .venv
+  228  Done
+  229  exit
+  230  exit() dwad
+  231  a
+  232  d
+  233  aa
+  234  d
+  235  ad
+  236  a
+  237  da
+  238  d
+  239  ad
+  240  a
+  241  niggga
+  242  ada
+  243  da
+  244  0
+  245  python3 -m venv .venv
+  246  source .venv/bin/activate
+  247  pip install requests
+  248  pip install colorama
+  249  pip list
+  250  pip freeze > requirements.txt
+  251  requirements.txt
+  252  pip list
+  253  pip freeze > requirements.txt
+  254  type requirements.txt
+  255  cat requirements.txt
+  256  nano github_zen.py
+  257  python github_zen.py
+  258  pwd
+  259  cat requirements.txt
+  260  nano github_zen.py
+  261  cd SoftwareEngineering
+  262  cd Lab3
+  263  nano project_vision.txt
+  264  cd SoftwareEngineering
+  265  cd Lab2
+  266  cd Lab3
+  267  nano project_vision.txt
+  268  cd SoftwareEngineering
+  269  cd Lab3
+  270  nano project_vision.txt
+  271  cd SoftwareEngineering
+  272  cd Lab3
+  273  pwd
+  274  cd SoftwareEngineering
+  275  mkdir -p Lab04
+  276  cd Lab04
+  277  bash nano bad_code.py
+  278  nano bad_code.py
+  279  python3 bad_code.py
+  280  nano bad_code.py
+  281  python3 bad_code.py
+  282  nano bad_code.py
+  283  python3 bad_code.py
+  284  nano bad_code.py
+  285  cp bad_code.py clean_code.py
+  286  clean_code.py
+  287  nano clean_code.py
+  288  cd SoftwareEngineering
+  289  cd Lab04
+  290  nano clean_code.py
+  291  python3 clean_code.py
+  292  echo "=== Lab 04 Agile Sprint Verification ===" > lab04_final.txt
+  293  echo "1. Code Structure:" >> lab04_final.txt
+  294  cat clean_code.py >> lab04_final.txt
+  295  echo -e "\n2. Execution Result:" >> lab04_final.txt
+  296  python3 clean_code.py >> lab04_final.txt
+  297  cd
+  298  cd SoftwareEngineering'
+  299  cd SoftwareEngineering
+  300  mkdir Lab05
+  301  cd Lab05
+  302  python3 -m venv .venv
+  303  cd SoftwareEngineering
+  304  cd Lab05
+  305  python3 -m venv .venv
+  306  .\venv\Scripts\activate
+  307  source .venv/bin/activate
+  308  pip install mysql-connector-python python-dotenv
+  309  deactivate
+  310  rm -rf .venv
+  311  python3 -m venv .venv
+  312  source .venv/bin/activate
+  313  pip install mysql-connector-python python-dotenv
+  314  docker run --name agile-db mydb
+  315  mkdir mysql_data
+  316  docker run --name agile-db   -e MYSQL_ROOT_PASSWORD=my-secure-password   -v $(pwd)/mysql_data:/var/lib/mysql   -p 3306:3306   -d mysql:latest
+  317  sudo apt update
+  318  sudo apt install docker.io -y
+  319  sudo systemctl start docker
+  320  sudo usermod -aG docker $USER
+  321  docker run --name agile-db   -e MYSQL_ROOT_PASSWORD=my-secure-password   -v $(pwd)/mysql_data:/var/lib/mysql   -p 3306:3306   -d mysql:latest
+  322  sudo docker run --name agile-db   -e MYSQL_ROOT_PASSWORD=my-secure-password   -v $(pwd)/mysql_data:/var/lib/mysql   -p 3306:3306   -d mysql:latest
+  323  DB_HOST=localhost
+  324  DB_USER=root
+  325  DB_PASSWORD=my-secure-password
+  326  DB_PORT=3306
+  327  DB_NAME=university
+  328  touch .gitignore
+  329  nano .gitignore
+  330  db_manager.py
+  331  nano db manager.py
+  332  nano db_manager.py
+  333  python3 db_manager.py
+  334  nano db_manager.py
+  335  docker rm -f agile-db
+  336  sudo docker rm -f agile-db
+  337  python3 db_manager.py
+  338  nano db_manager.py
+  339  python3 db_manager.py
+  340  sudo docker run --name agile-db -e MYSQL_ROOT_PASSWORD=my-secure-password -v $(pwd)/mysql_data:/var/lib/mysql -p 3306:3306 -d mysql:latest
+  341  python3 db_manager.py
+  342  sudo docker run --name agile-db -e MYSQL_ROOT_PASSWORD=my-secure-password -v $(pwd)/mysql_data:/var/lib/mysql -p 3306:3306 -d mysql:latest
+  343  sudo docker rm -f agile-db
+  344  sudo docker run --name agile-db -e MYSQL_ROOT_PASSWORD=my-secure-password -v $(pwd)/mysql_data:/var/lib/mysql -p 3306:3306 -d mysql:latest
+  345  python3 db_manager.py
+  346  cd ..
+  347  rm -rf Lab05
+  348  mkdir Lab05
+  349  cd Lab05
+  350  python3 -m venv .venv
+  351  mkdir -p Lab05
+  352  cd Lab05
+  353  cd ..
+  354  rm -rf Lab05
+  355  cd ..
+  356  rm -rf Lab05
+  357  mkdir -p Lab05
+  358  cd Lab05
+  359  python -m venv .venv
+  360  python3 -m venv .venv
+  361  pwd
+  362  source .venv/bin/activate
+  363  python -m venv .venv
+  364  python3 -m venv .venv
+  365  py -m venv .venv
+  366  python3 -m venv .venv
+  367  ls -la
+  368  python -m venv .venv
+  369  python3 -m venv .venv
+  370  deactivate
+  371  rm -rf .venv
+  372  python3 -m venv .venv
+  373  source .venv/bin/activate
+  374  pip install mysql-connector-python python-dotenv
+  375  mkdir mysql_data
+  376  docker run --name agile-db -e MYSQL_ROOT_PASSWORD=my-secure-password -v $(pwd)/mysql_data:/var/lib/mysql -p 3306:3306 -d mysql:latest
+  377  sudo docker run --name agile-db -e MYSQL_ROOT_PASSWORD=my-secure-password -v $(pwd)/mysql_data:/var/lib/mysql -p 3306:3306 -d mysql:latest
+  378  sudo docker rm -f agile-db
+  379  sudo docker run --name agile-db
+  380  docker run --name agile-db -e MYSQL_ROOT_PASSWORD=my-secure-password -v $(pwd)/mysql_data:/var/lib/mysql -p 3306:3306 -d mysql:latest
+  381  sudo docker run --name agile-db -e MYSQL_ROOT_PASSWORD=my-secure-password -v $(pwd)/mysql_data:/var/lib/mysql -p 3306:3306 -d mysql:latest
+  382  nano .env
+  383  echo ".env" > .gitignore
+  384  nano .env
+  385  nano db_manager.py
+  386  python db_manager.py
+  387  docker run --name agile-db -e MYSQL_ROOT_PASSWORD=my-secure-password -v $(pwd)/mysql_data:/var/lib/mysql -p 3306:3306 -d mysql:latest
+  388  sudo docker run --name agile-db -e MYSQL_ROOT_PASSWORD=my-secure-password -v $(pwd)/mysql_data:/var/lib/mysql -p 3306:3306 -d mysql:latest
+  389  python3 db_manager.py
+  390  nano db_manager.py
+  391  python3 db_manager.py
+  392  cd SoftwareEngineering
+  393  cd Lab05
+  394  python3 db_manager.py
+  395  # Make sure you are in your Lab05 folder and the venv is active
+  396  pip install mysql-connector-python python-dotenv
+  397  sudo docker rm -f agile-db
+  398  cd ..
+  399  rm -rf Lab05
+  400  sudo docker rm -f agile-db
+  401  mkdir Lab05
+  402  cd Lab05
+  403  python3 -m venv .venv
+  404  .\.venv\Scripts\Activate
+  405  source .venv/bin/activate
+  406  mkdir mysql_data
+  407  docker run --name agile-db   -e MYSQL_ROOT_PASSWORD=my-secure-password   -v $(pwd)/mysql_data:/var/lib/mysql   -p 3306:3306   -d mysql:latest
+  408  docker ps
+  409  cat > .env << EOF
+  410  DB_HOST=localhost
+  411  DB_USER=root
+  412  DB_PASSWORD=my-secure-password
+  413  DB_PORT=3306
+  414  DB_NAME=university
+  415  EOF
+  416  cat .env
+  417  cat > .gitignore << EOF
+  418  .env
+  419  .venv/
+  420  mysql_data/
+  421  EOF
+  422  cat .gitignore
+  423  cat > .env.example << EOF
+  424  DB_HOST=localhost
+  425  DB_USER=root
+  426  DB_PASSWORD=your-password-here
+  427  DB_PORT=3306
+  428  DB_NAME=university
+  429  EOF
+  430  nano db_manager.py
+  431  python3 db_manager.py
+  432  pip install mysql-connector-python python-dotenv
+  433  python3 db_manager.py
+  434  docker ps
+  435  mkdir mysql_data
+  436  docker run --name agile-db   -e MYSQL_ROOT_PASSWORD=my-secure-password   -v $(pwd)/mysql_data:/var/lib/mysql   -p 3306:3306   -d mysql:latest
+  437  docker rm agile-db
+  438  docker run --name agile-db   -e MYSQL_ROOT_PASSWORD=my-secure-password   -v $(pwd)/mysql_data:/var/lib/mysql   -p 3306:3306   -d mysql:latest
+  439  docker ps
+  440  python3 db_manager.py
+  441  docker logs agile-db
+  442  docker stop agile-db
+  443  docker rm agile-db
+  444  rm -rf mysql_data
+  445  mkdir mysql_data
+  446  docker run --name agile-db   -e MYSQL_ROOT_PASSWORD=my-secure-password   -v $(pwd)/mysql_data:/var/lib/mysql   -p 3306:3306   -d mysql:latest
+  447  docker logs agile-db
+  448  python3 db_manager.py
+  449  docker ps
+  450  docker start agile-db
+  451  docker ps
+  452  docker run
+  453  docker start agile-db
+  454  docker ps
+  455  docker start agile-db
+  456  docker ps
+  457  DB_HOST=127.0.0.1
+  458  docker logs
+  459  python3 db_manager.py
+  460  agile_mysql_volume
+  461  docker logs agile-db
+  462  docker rm -f agile-db
+  463  docker run --name agile-db -e MYSQL_ROOT_PASSWORD=my-secure-password -v agile_mysql_data:/var/lib/mysql -p 3306:3306 -d mysql:latest
+  464  docker logs agile-db
+  465  python3 db_manager.py
+  466  nano .env
+  467  db_manager.py
+  468  nano db_manager.py
+  469  docker rm -f agile-db
+  470  docker run --name agile-db   -e MYSQL_ROOT_PASSWORD=my-secure-password   -v $(pwd)/mysql_data:/var/lib/mysql   -p 3306:3306   -d mysql:latest
+  471  python3 db_manager.py
+  472  docker run --name agile-db -e MYSQL_ROOT_PASSWORD=my-secure-password -v agile_mysql_data:/var/lib/mysql -p 3306:3306 -d mysql:latest
+  473  nano db_manager.py
+  474  echo "=== Lab 05 Persistence Verification ===" > submission.txt
+  475  docker inspect agile-db | grep Mounts -A 5 >> submission.txt
+  476  python3 db_manager.py >> submission.txt
+  477  docker stop agile-db
+  478  cd SoftwareEngineering
+  479  mkdir -p Lab06_Project/{models,templates,tests}
+  480  cd Lab06_Project
+  481  touch models/__init__.py tests/__init__.py
+  482  touch app.py models/student.py templates/index.html tests/test_student.py init_db.py
+  483  python3 -m venv .venv
+  484  .\.venv\Scripts\Activate
+  485  .venv\Scripts\Activate
+  486  \.venv\Scripts\Activate
+  487  .venv\Scripts\activate.bat
+  488  .venv\Scripts\Activate.ps1
+  489  source .venv/Scripts/activate
+  490  cd Lab06_Project
+  491  python3 -m venv .venv
+  492  source .venv/Scripts/activate
+  493  python -m venv .venv
+  494  cd SoftwareEngineer
+  495  cd SoftwareEngineering
+  496  cd Lab06_Project
+  497  mkdir -p Lab06_Project/{models,templates,tests}
+  498  cd Lab06_Project
+  499  touch models/__init__.py tests/__init__.py
+  500  touch app.py models/student.py templates/index.html tests/test_student.py init_db.py
+  501  python3 -m venv .venv
+  502  .\.venv\Scripts\Activate
+  503  \.venv\Scripts\Activate
+  504  .venv\Scripts\Activate
+  505  .\venv\Scripts\Activate
+  506  source venv/bin/activate
+  507  ls -a
+  508  source .venv/bin/activate
+  509  pip install flask mysql-connector-python
+  510  docker run --name lab06-db -e MYSQL_ROOT_PASSWORD=secret -p 3306:3306 -d mysql:latest
+  511  docker ps
+  512  python3 init_db.py
+  513  nano init_db.py
+  514  docker ps
+  515  python3 init_db.py
+  516  nano models/student.py
+  517  nano tests/test_student.py
+  518  python3 -m unittest tests/test_student.py
+  519  nano templates/index.html
+  520  nano app.py
+  521  python3 app.py
+  522  nano init_db.py
+  523  nano models/student.py
+  524  nano tests/test_student.py
+  525  nano templates/index.html
+  526  nano app.py
+  527  dockes ps
+  528  docker ps
+  529  cd ..
+  530  zip -r Lab06_Project.zip Lab06_Project/
+  531  cd ..
+  532  zip -r Lab06_Project.zip Lab06_Project/
+  533  sudo apt install zip -r Lab06_Project.zip Lab06_Project/
+  534  sudo apt install zip Lab06_Project.zip Lab06_Project/
+  535  sudo apt install zip -r Lab06_Project.zip Lab06_Project/
+  536  sudo apt install zip Lab06_Project.zip Lab06_Project/
+  537  cd SoftwareEngineering
+  538  rm -r movie-collection
+  539  mkdir movie-collection
+  540  cd movie-collection
+  541  mkdir -p backend/templates
+  542  mkdir -p backend/static/css
+  543  mkdir -p backend/static/js
+  544  touch backend/app.py
+  545  touch backend/models.py
+  546  touch backend/.env
+  547  touch backend/.env.example
+  548  touch backend/Dockerfile
+  549  touch backend/requirements.txt
+  550  touch docker-compose.yml
+  551  touch README.md
+  552  find . -type f && find . -type d
+  553  'find . | sort
+
+  554  find . | sort
+  555  code docker-compose.yml
+  556  code backend/.env
+  557  code backend/.env.example
+  558  code backend/Dockerfile
+  559  code backend/requirements.txt
+  560  cd /mnt/c/Users/dell/SoftwareEngineering/movie-collection
+  561  docker compose up db -d
+  562  cd /mnt/c/Users/dell/SoftwareEngineering/movie-collection
+  563  docker compose up db -d
+  564  docker ps
+  565  docker compose up db -d
+  566  docker-compose up db -d
+  567  docker-compose up db
+  568  sudo snap install docker
+  569  docker compose up db -d
+  570  docker-compose up db -d
+  571  docker ps
+  572  code backend/models.py
+  573  code backend/.env
+  574  code backend/models.py
+  575  code backend/app.py
+  576  code backend/templates/index.html
+  577  code backend/templates/login.html
+  578  code backend/templates/admin.html
+  579  code backend/static/css/style.css
+  580  touch backend/static/js/admin.js
+  581  code backend/static/js/main.js
+  582  code backend/static/js/admin.js
+  583  find /mnt/c/Users/dell/SoftwareEngineering/movie-collection -type f | sort
+  584  history > my_commands.txt

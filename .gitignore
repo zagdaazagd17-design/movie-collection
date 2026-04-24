@@ -1,0 +1,13 @@
+# Never upload real passwords
+backend/.env
+
+# Never upload database data
+mysql_data/
+
+# Python junk files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# VS Code settings
+.vscode/
